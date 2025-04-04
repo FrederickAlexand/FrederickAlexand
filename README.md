@@ -6,7 +6,7 @@ I am a fresh graduate from Multimedia Nusantara University with a degree in Info
 
 ## 🚀 My Skills
 - **Languages & Frameworks**: JavaScript, TypeScript, React, Next.js, Node.js, Python, PHP
-- **Databases**: MySQL, MongoDB, SQLAlchemy
+- **Databases**: PostgreSQL, MySQL, MongoDB, SQLAlchemy
 - **Tools & Technologies**: HTML, CSS, Tailwind CSS, Figma, Git, Postman
 - **Others**: Blockchain, Smart Contracts, AHP and SAW Algorithm
 
